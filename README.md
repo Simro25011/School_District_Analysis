@@ -50,3 +50,22 @@ https://github.com/Simro25011/School_District_Analysis/blob/main/Resources/_%20S
 
 Removing Thomas High School  9th graders  reduced the % Math Pass Rate, % Pass Reading Rate, % Overall Pass Rate
  , math pass percentage and reading pass percentage
+ 
+## Scores by School Type
+
+### Before
+
+https://github.com/Simro25011/School_District_Analysis/blob/main/Resources/original_%20Score_by_School_type.png
+
+### after
+
+https://github.com/Simro25011/School_District_Analysis/blob/main/Resources/Score_by_School_type_after.png
+
+In this analysis, charter schools generally outperformed district schools. As the chart below shows, charter schools have an overall pass rate that is 36 percent higher than district schools.
+
+
+
+
+## Summary
+
+Equating ninth graders' scores with NaNs caused Thomas High School's overall grades and average scores to decrease. Average math and reading scores and overall student pass rates also fell across the district. Although the school board didn't know the full extent of academic dishonesty , this analysis showcase how important it's ideal to have full datasets in order to have the most accurate results
